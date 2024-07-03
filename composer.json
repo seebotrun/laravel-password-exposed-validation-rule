@@ -4,7 +4,7 @@
     "type": "library",
     "require": {
         "php": "^7.1||^8.0||8.1||8.2||8.3",
-        "divineomega/password_exposed": "^4.0.0",
+        "divineomega/password_exposed": "^5.0",
         "illuminate/contracts": "^5.1||^6.0||^7.0||^8.0||^9.0||^10.0||^11.0"
     },
     "license": "LGPL-3.0-only",
@@ -37,6 +37,11 @@
         {
             "type": "vcs",
             "url": "https://github.com/langleyfoxall/psr-18-guzzle-adapter",
+            "no-api": true
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/langleyfoxall/DO-File-Cache-PSR-6.git",
             "no-api": true
         }
     ],
