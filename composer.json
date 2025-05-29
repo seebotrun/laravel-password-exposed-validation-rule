@@ -1,5 +1,5 @@
 {
-    "name": "divineomega/laravel-password-exposed-validation-rule",
+    "name": "seebotrun/laravel-password-exposed-validation-rule",
     "description": "Laravel validation rule that checks if a password has been exposed in a data breach",
     "type": "library",
     "require": {
